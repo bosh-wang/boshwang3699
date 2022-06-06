@@ -1,7 +1,10 @@
-# Web Programming Final Exam Personal CV
+### Hi there, I am Bosh from Taiwan. 👋
+- I'm currently studying at National Central University
+- I have learned languages including C, Java, JavaScript...
+- I'm looking forward to working at silicon valley !!
 
-__[Link to my site](https://boshwang3699.github.io/wp-final/)__
 
-Contributions:
-- stars are from __[Google Fonts](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200")__
-- icons are from __[flaticon](https://www.flaticon.com/)__
+##### There are some repositories I created
+**If you have any question, feel free to contact me!!**
+
+#### My e-mail: wangbosh0604@gmail.com

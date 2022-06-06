@@ -7,4 +7,4 @@
 ##### There are some repositories I created
 **If you have any question, feel free to contact me!!**
 
-#### My E-mail: wangbosh0604@gmail.com
+#### My e-mail: wangbosh0604@gmail.com

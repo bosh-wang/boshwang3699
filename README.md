@@ -1,6 +1,6 @@
 ### Hi there, I am Bosh from Taiwan. 👋
 - I'm currently studying at National Central University
-- I have learned languages including C, Java, JavaScript...
+- I have learned languages including C, Java, JavaScript, Python, etc...
 - I'm looking forward to working at silicon valley !!
 
 
